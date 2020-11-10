@@ -4,3 +4,7 @@
 ### este otro h3 mismo proposito
 random texts
 Un repositorio con fines educativos para el uso de comandos basicos
+
+##local development
+
+1. open index.html in your browser
